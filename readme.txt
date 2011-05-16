@@ -7,4 +7,5 @@ of http://simonmacdonald.blogspot.com/2011/05/overriding-back-button-in-phonegap
 
 Use of phonegap.0.9.5.js
 
+Ready for https://build.phonegap.com/
 
