@@ -2,12 +2,12 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.kixoft.examples.usgs"
-	version 	= "1.1.13">
+	version 	= "1.1.25">
 
 	<name>aUSGS</name>
 
 	<description>
-		Example of PhoneGap and Sencha: USGS Earthquake 
+		Example of PhoneGap and Sencha: USGS Earthquake, mis terremotos.
 	</description>
 
 	<author href="https://sites.google.com/site/roberkixote/"
