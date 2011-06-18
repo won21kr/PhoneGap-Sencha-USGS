@@ -2,7 +2,7 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.kixoft.examples.usgs"
-	version 	= "1.2.21">
+	version 	= "1.2.69">
 
 	<name>aUSGS</name>
 
